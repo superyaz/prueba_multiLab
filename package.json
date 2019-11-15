@@ -1,7 +1,7 @@
 {
   "name": "prueba-lab",
   "version": "1.0.0",
-  "description": "Aplicación completa con nodejs, mysql y react",
+  "description": "Aplicación completa con nodejs, mysql y handlebars",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
