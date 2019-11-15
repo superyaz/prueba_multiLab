@@ -1,0 +1,28 @@
+<div class="container p-4">
+    <div class="row">
+        {{#each frases}}
+        <div class="col-md-3">
+            <div class="card text-center">
+                <div class="card-body">
+                    <a href="{{url}}" target="_blank">
+                        <h3 class="card-title text-uppercase">
+                            {{title}}
+                        </h3>
+                    </a>
+                    <p class="m-2">{{description}}</p>
+                    <p>{{timeago create_at}}</p>
+                    <a href="/frases/delete/{{id}}" class="btn btn-danger">Eliminar frase</a>
+                    <a href="/frases/edit/{{id}}" class="btn btn-secondary">Editar</a>
+                </div>
+            </div>
+        </div>
+        {{else}}
+        <div class="col-md-4 mx-auto p-4">
+            <div class="card card-body text center">
+                <p>No tienes ninguna frase creada</p>
+                <a href="/frases/add">Empecemos por crear una!</a>
+            </div>
+        </div>
+        {{/each}}
+    </div>
+</div>
