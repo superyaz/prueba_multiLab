@@ -1,4 +1,4 @@
-# prueba_multiLab
+# Prueba Multimedia Lab
 Proyecto para guardar frases
 
 ## Tecnologias utilizadas 
