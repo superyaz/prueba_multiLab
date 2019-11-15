@@ -4,7 +4,9 @@ Proyecto para guardar frases
 ## Tecnologias utilizadas 
 <strong> NodeJS, MySql, Handlebars </strong>
 
-Este proyecto es una prueba que se realizó para la empresa Multimedia Lab
+### Para observar dicho proyecto, por favor ingresa al siguiente link: https://multimedialab.herokuapp.com/
+
+
 
 ## Home
 ![0](https://user-images.githubusercontent.com/38477245/68944235-5fed9900-077b-11ea-8a81-e117fcd41a38.JPG)
@@ -42,4 +44,5 @@ Este proyecto es una prueba que se realizó para la empresa Multimedia Lab
 ![5](https://user-images.githubusercontent.com/38477245/68944587-249f9a00-077c-11ea-96ec-927acdf7d032.JPG)
 
 
-
+# Este proyecto es una prueba que se realizó para la empresa Multimedia Lab
+# @superyaz
